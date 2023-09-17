@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__productdistributionmain.o
+[PROJECT FILES]
+C:\GNAT\2021\bin\Lab1\Lab1OptionB.gpr
+20230916170402 15445b30857a58e766fdbb2dc7e5ad27
+[BOUND OBJECT FILES]
+C:\GNAT\2021\bin\Lab1\obj\food_datastructures.o
+C:\GNAT\2021\bin\Lab1\obj\circularque.o
+C:\GNAT\2021\bin\Lab1\obj\stats_fooddistribution.o
+C:\GNAT\2021\bin\Lab1\obj\gatekeeperservice.o
+C:\GNAT\2021\bin\Lab1\obj\distribution_service.o
+C:\GNAT\2021\bin\Lab1\obj\food_salesservice.o
+C:\GNAT\2021\bin\Lab1\obj\ProductDistributionMain.o
+[GENERATED SOURCE FILES]
+b__productdistributionmain.ads
+b__productdistributionmain.adb
+b__productdistributionmain.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\2021\bin\Lab1\obj\
+-LC:\GNAT\2021\bin\Lab1\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

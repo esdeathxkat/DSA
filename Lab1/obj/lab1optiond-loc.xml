@@ -1,0 +1,912 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\ProductDistributionMain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\stats_fooddistribution.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\stats_fooddistribution.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\ProductDistributionMain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\stats_fooddistribution.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\stats_fooddistribution.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-tiinio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 80" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\a-tiinio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 9" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 35" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 30" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 6" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 30" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 16" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 30" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 30" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\ProductDistributionMain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 55" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 55" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 5" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 55" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 55" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\ProductDistributionMain.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_salesservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 59" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 33" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 33" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 26" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 33" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 24" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 27" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 13" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 15" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 15" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 71" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 20" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 19" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 18" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 19" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 32" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 32" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 20" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 4" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 19" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 17" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 9" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 9" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 23" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 19" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\food_datastructures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\gatekeeperservice.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2021\bin\Lab1\lab1optiond.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\Lab1\src\circularque.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_file>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project  />
+      <vfs_file  />
+    </file_marker>
+    <file_marker column=" 1" line=" 36">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\obj\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 36">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\obj\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 37">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\obj\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 14">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\obj\usefirstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 38">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\obj\usefirstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 11">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 2">
+      <vfs_project  />
+      <vfs_file >C:\GNAT\2021\bin\src\firstdaystack.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 20">
+      <vfs_project >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\bin\New folder (2)\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 19">
+      <vfs_project >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\bin\New folder (2)\src\circularque.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\bin\New folder (2)\src\circularque.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10">
+      <vfs_project >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\bin\New folder (2)\src\distribution_service.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 18">
+      <vfs_project >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\bin\New folder (2)\src\distribution_service.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\GNAT\2021\bin\New folder (2)\lab1optiond.gpr</vfs_project>
+      <vfs_file >C:\GNAT\2021\bin\New folder (2)\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
