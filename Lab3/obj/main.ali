@@ -1,0 +1,187 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_ENUMERATION_MAPS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U main%b		main.adb		db1e9f2a NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.enumeration_aux%s  a-tienau.adb	a-tienau.ali
+Z ada.text_io.enumeration_io%s
+Z ada.text_io.generic_aux%s  a-tigeau.adb	a-tigeau.ali
+Z ada.text_io.integer_aux%s
+Z ada.text_io.integer_io%s
+Z system%s		system.ads		system.ali
+Z system.img_biu%s	s-imgbiu.ads		s-imgbiu.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.img_llb%s	s-imgllb.ads		s-imgllb.ali
+Z system.img_lli%s	s-imglli.ads		s-imglli.ali
+Z system.img_lllb%s	s-imglllb.ads		s-imglllb.ali
+Z system.img_llli%s	s-imgllli.ads		s-imgllli.ali
+Z system.img_lllw%s	s-imglllw.ads		s-imglllw.ali
+Z system.img_llw%s	s-imgllw.ads		s-imgllw.ali
+Z system.img_wiu%s	s-imgwiu.ads		s-imgwiu.ali
+Z system.val_enum_8%s	s-vaenu8.ads		s-vaenu8.ali
+Z system.val_int%s	s-valint.ads		s-valint.ali
+Z system.val_lli%s	s-vallli.ads		s-vallli.ali
+Z system.val_llli%s	s-valllli.ads		s-valllli.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-tienau.ads		20210520051130 6a9c157b ada.text_io.enumeration_aux%s
+D a-tienio.ads		20210520051130 2e79c9bf ada.text_io.enumeration_io%s
+D a-tienio.adb		20210520051130 c9e6b5af ada.text_io.enumeration_io%b
+D a-tigeau.ads		20210520051130 e643cdf3 ada.text_io.generic_aux%s
+D a-tiinau.ads		20210520051130 1c79f78d ada.text_io.integer_aux%s
+D a-tiinau.adb		20210520051130 89004916 ada.text_io.integer_aux%b
+D a-tiinio.ads		20210520051130 390edddb ada.text_io.integer_io%s
+D a-tiinio.adb		20210520051130 b79731f4 ada.text_io.integer_io%b
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D main.adb		20231006001754 75ea4a47 main%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imageb.ads		20210520051134 3953e0e6 system.image_b%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imagew.ads		20210520051134 9d2dd267 system.image_w%s
+D s-imgbiu.ads		20210520051134 0a8e1c41 system.img_biu%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-imgllb.ads		20210520051134 47d0db9f system.img_llb%s
+D s-imglli.ads		20210520051134 3723d9ff system.img_lli%s
+D s-imglllb.ads		20210520051134 30212eed system.img_lllb%s
+D s-imgllli.ads		20210520051134 5cf3dc07 system.img_llli%s
+D s-imglllw.ads		20210520051134 9e2b0560 system.img_lllw%s
+D s-imgllw.ads		20210520051134 bf9c9c15 system.img_llw%s
+D s-imgwiu.ads		20210520051134 912a95f2 system.img_wiu%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-vaenu8.ads		20210520051134 b7b91426 system.val_enum_8%s
+D s-valint.ads		20210520051134 e7fcadb7 system.val_int%s
+D s-vallli.ads		20210520051134 0767e6f3 system.val_lli%s
+D s-valllli.ads		20210520051134 f758e795 system.val_llli%s
+D s-vallllu.ads		20210520051134 87566fa4 system.val_lllu%s
+D s-valllu.ads		20210520051134 660d930f system.val_llu%s
+D s-valuns.ads		20210520051134 dac7b45d system.val_uns%s
+D s-valuei.ads		20210520051134 978dd0a6 system.value_i%s
+D s-valuen.ads		20210520051134 72b74993 system.value_n%s
+D s-valueu.ads		20210520051134 7b8fccf5 system.value_u%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [main standard 3 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 21|1r6 1r23 6r30 10r30 14r28 16r26
+X 9 a-textio.ads
+58K13*Text_IO 725e16 21|1w10 1r27 6r34 10r34 14r32 16r30
+262U14*New_Line 21|104s9 104s48 108s58
+463U14*Put 21|67s9 68s9 69s9 93s9 104s19 107s13 107s54 107s100 108s13
+X 11 a-tienio.ads
+26k21*Enumeration_IO 76e31 21|6r42 10r42 14r40
+34U14 Get 21|67s30[10] 68s34[6] 93s52[14]
+52U14 Put 21|104s39[6] 107s29[10] 107s76[6]
+X 16 a-tiinio.ads
+46k21*Integer_IO 108e27 21|16r38
+59U14 Get 21|69s29[16]
+80U14 Put 21|107s117[16] 108s31[16]
+X 21 main.adb
+3U11*Main 3b11 112l5 112t9
+4E10 JobType 5e57 6r57 20r15 52r22 103r14
+4n22 Accountant{4E10}
+4n34 Analyst{4E10}
+4n43 Manager{4E10}
+4n52 Manufacturing{4E10}
+4n67 Programmer{4E10}
+5n22 Inventory{4E10}
+5n33 Sales{4E10}
+5n40 SoftwareEngineer{4E10}
+6K13 JobTypeIO[11|26] 6r71
+8E10 EmpName 9e78 10r57 19r15
+8n22 Ben{8E10}
+8n27 Betty{8E10}
+8n34 Bob{8E10}
+8n39 Damon{8E10}
+8n46 Darlene{8E10}
+8n55 David{8E10}
+8n62 Desire{8E10}
+8n70 Donald{8E10}
+8n78 Dustin{8E10}
+9n22 Jerry{8E10}
+9n29 Kevin{8E10}
+9n36 Mary{8E10}
+9n42 Marty{8E10}
+9n49 Sable{8E10}
+9n56 Sam{8E10}
+9n61 Sara{8E10}
+9n67 Teddy{8E10}
+9n74 Tom{8E10}
+10K13 EmpNameIO[11|26] 10r71
+12E10 LegalResponse 12e76 13r33 14r55 58r12
+12n28 yup{12E10} 13r53
+12n33 y{12E10}
+12n36 yes{12E10}
+12n41 affirmative{12E10} 13r58 58r29
+12n54 nope{12E10}
+12n60 no{12E10}
+12n64 n{12E10}
+12n67 negative{12E10}
+13E13 PositiveResponse{12E10} 66r21
+14K13 LegalIO[11|26] 14r75
+16K13 IntIO[16|46] 16r63
+18R10 Emp 23e15 25r32 42r40 43r11 54r33
+19e9 Name{8E10} 38r21 38r34 67m51 107r47
+20e9 Job{4E10} 28r17 28r30 29r25 29r37 68m55 72r42 84r40 107r94
+21i9 Age{integer} 33r17 33r30 34r25 34r37 69m50 107r135
+22i9 Next{integer} 77r33 80m26 87m31 108r49 109r33
+25V15 "<"{boolean} 25b15 25>19 25>25 39l9 39t11 75s46
+25r19 Left{18R10} 28r12 29r20 33r12 34r20 38r16
+25r25 Right{18R10} 28r24 29r31 33r24 34r31 38r28
+42U15 Swap 42b15 42=20 42=26 48l9 48t13
+42r20 Left{18R10} 45r14 46m6
+42r26 Right{18R10} 46r14 47m6
+43r5 Temp{18R10} 45m6 47r15
+52a5 SortByJob(integer) 72r15 84m13 105r15
+54a5 SortSpace(18R10) 67m34 67r34 68m38 68r38 69m33 69r33 72r25 75r32 75r48
+. 77r19 80m9 84r23 87m13 107r33 107r80 107r121 108r35 109r19
+55i5 Avail{integer} 67r44 68r48 69r43 72r35 75r58 80r19 84r33 84r48 87r39
+. 91m9 91r18
+56i5 Pt{integer} 72m9 75r15 75r42 76r23 77m13 77r29 80r34 105m9 106r15 107r43
+. 107r90 107r131 108r45 109m13 109r29
+56i9 PrevPt{integer} 73m9 76m13 82r12 87r23
+58e5 Again{12E10} 66r12 93m56
+103e9 I{4E10} 104r44 105r25
+
